@@ -19,7 +19,7 @@ interface QuestionObject {
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const { questionID } = req.query;
   if (req.method == "GET") {
-    const comment: QuestionObject = questions.find(
+    const comment: QuestionObject||{error:'not Found'} = questions.find(
       ({ id }) => id == questionID
     );
     res.status(200).json(comment);
