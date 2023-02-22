@@ -1,0 +1,424 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "img": "",
+      "title": "Which champion is Garen's sibling?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Vayne" },
+        { "id": 2, "title": "Lux" },
+        { "id": 3, "title": "Lucian" },
+        { "id": 4, "title": "Sona" }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "",
+      "title": "What does the abbreviation TFT stands for",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "Teams fight Teams" },
+        { "id": 2, "title": "Team for Team" },
+        { "id": 3, "title": "Teamfight Tactics" },
+        { "id": 4, "title": "Teams for Tactics" }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "",
+      "title": "Who created Blitzcrank?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Viktor" },
+        { "id": 2, "title": "Dr. Mundo" },
+        { "id": 3, "title": "Camille" },
+        { "id": 4, "title": "Urgot" }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "",
+      "title": "What year was the game released?",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "2010" },
+        { "id": 2, "title": "2007" },
+        { "id": 3, "title": "2009" },
+        { "id": 4, "title": "2011" }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "",
+      "title": "Why aren’t Xayah and Rakan married?",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "Because he doesn’t want to marry her" },
+        { "id": 2, "title": "Because they both don’t believe in marriages" },
+        { "id": 3, "title": "Because to hear him proposing every day" },
+        { "id": 4, "title": "Because she loves another man" }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "",
+      "title": "How was the 3vs3 map called?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Dark Forest" },
+        { "id": 2, "title": "Twisted Treeline" },
+        { "id": 3, "title": "Forbidden Forest" },
+        { "id": 4, "title": "Summoner’s Rift" }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "",
+      "title": "How many champions were available when the game was released?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "30" },
+        { "id": 2, "title": "50" },
+        { "id": 3, "title": "20" },
+        { "id": 4, "title": "40" }
+      ]
+    },
+    {
+      "id": 8,
+      "img": "",
+      "title": "Which champion is married to Ashe?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Zed" },
+        { "id": 2, "title": "Tryndamere" },
+        { "id": 3, "title": "Ahri" },
+        { "id": 4, "title": "shen" }
+      ]
+    },
+    {
+      "id": 9,
+      "img": "",
+      "title": "In which champion class belongs Kalista?",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "Mage" },
+        { "id": 2, "title": "Specialist" },
+        { "id": 3, "title": "Marksman" },
+        { "id": 4, "title": "Fighter" }
+      ]
+    },
+    {
+      "id": 10,
+      "img": "",
+      "title": " At what level do most champions unlock their ultimate ability?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Level 6" },
+        { "id": 2, "title": "Level 3" },
+        { "id": 3, "title": "Level 7" },
+        { "id": 4, "title": "Level 5" }
+      ]
+    },
+    {
+      "id": 11,
+      "img": "",
+      "title": "Where was Dr. Mundo raised and born?",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "Shurima" },
+        { "id": 2, "title": "Bandle City" },
+        { "id": 3, "title": "Zaun" },
+        { "id": 4, "title": "The Freljord" }
+      ]
+    },
+    {
+      "id": 12,
+      "img": "",
+      "title": "What is the name of Ashe’s bow?",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "Ashe’s Bow" },
+        { "id": 2, "title": "Magical Bow" },
+        { "id": 3, "title": "Avarosa’s Bow" },
+        { "id": 4, "title": "Freljord’s Bow" }
+      ]
+    },
+    {
+      "id": 13,
+      "img": "",
+      "title": " What kind of creature is Fizz?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Yordle" },
+        { "id": 2, "title": "Treant" },
+        { "id": 3, "title": "Demon" },
+        { "id": 4, "title": "Faerie" }
+      ]
+    },
+    {
+      "id": 14,
+      "img": "",
+      "title": " When exactly does baron spawn for the first time?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "25:00" },
+        { "id": 2, "title": "20:00" },
+        { "id": 3, "title": "15:00" },
+        { "id": 4, "title": "30:00" }
+      ]
+    },
+    {
+      "id": 15,
+      "img": "",
+      "title": "Who is Morgana’s sister?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Ahri" },
+        { "id": 2, "title": "Kayle" },
+        { "id": 3, "title": "Diana" },
+        { "id": 4, "title": "Miss Fortune" }
+      ]
+    },
+    {
+      "id": 16,
+      "img": "",
+      "title": "In which champion class belongs Poppy?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Tank" },
+        { "id": 2, "title": "Mage" },
+        { "id": 3, "title": "Marksman" },
+        { "id": 4, "title": "Specialist" }
+      ]
+    },
+    {
+      "id": 17,
+      "img": "",
+      "title": "Which champion is also known as the Sad Mummy?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Yasou" },
+        { "id": 2, "title": "Yuumi" },
+        { "id": 3, "title": "Darius" },
+        { "id": 4, "title": "Amumu" }
+      ]
+    },
+    {
+      "id": 18,
+      "img": "",
+      "title": " What’s the name of Annie’s teddy bear?",
+      "answer": 3,
+      "options": [
+        { "id": 1, "title": "Teddy" },
+        { "id": 2, "title": "Blane" },
+        { "id": 3, "title": "Tibbers" },
+        { "id": 4, "title": "Steve" }
+      ]
+    },
+    {
+      "id": 19,
+      "img": "",
+      "title": "What resources uses Gnar to use a spell?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Rage" },
+        { "id": 2, "title": "Life" },
+        { "id": 3, "title": "Mana" },
+        { "id": 4, "title": "Energy" }
+      ]
+    },
+    {
+      "id": 20,
+      "img": "",
+      "title": " How many turrets are on Summoner’s Rift per team?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "11" },
+        { "id": 2, "title": "9" },
+        { "id": 3, "title": "6" },
+        { "id": 4, "title": "13" }
+      ]
+    },
+    {
+      "id": 21,
+      "img": "",
+      "title": "Who was Gangplank’s first love?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Miss Fortune" },
+        { "id": 2, "title": "Cassiopeia" },
+        { "id": 3, "title": "Caitlyn" },
+        { "id": 4, "title": "Illaoi" }
+      ]
+    },
+    {
+      "id": 22,
+      "img": "",
+      "title": "In which year was Pyke released?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "2010" },
+        { "id": 2, "title": "2011" },
+        { "id": 3, "title": "2015" },
+        { "id": 4, "title": "2018" }
+      ]
+    },
+    {
+      "id": 23,
+      "img": "",
+      "title": "Which champion is also known as the Magical Cat?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Yummi" },
+        { "id": 2, "title": "Teemo" },
+        { "id": 3, "title": "Twitch" },
+        { "id": 4, "title": "Nasus" }
+      ]
+    },
+    {
+      "id": 24,
+      "img": "",
+      "title": "Which of the following is not a country in Runeterra?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Demacia" },
+        { "id": 2, "title": "Nexus" },
+        { "id": 3, "title": "Bilgewater" },
+        { "id": 4, "title": "Ionia" }
+      ]
+    },
+    {
+      "id": 25,
+      "img": "",
+      "title": "Who murdered Miss Fortune’s family?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Irelia" },
+        { "id": 2, "title": "Gangplank" },
+        { "id": 3, "title": "Alistar" },
+        { "id": 4, "title": "Senna" }
+      ]
+    },
+    {
+      "id": 26,
+      "img": "",
+      "title": "Which champion is also known as the Dark Child?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Zac" },
+        { "id": 2, "title": "Zed" },
+        { "id": 3, "title": "Nunu" },
+        { "id": 4, "title": "Annie" }
+      ]
+    },
+    {
+      "id": 27,
+      "img": "",
+      "title": "This Champion is a maniac- literally, a maniac. Also known as the Demon Jester, they carry two daggers. What is this lunatic's name?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Akali" },
+        { "id": 2, "title": "Shaco" },
+        { "id": 3, "title": "Anivia" },
+        { "id": 4, "title": "Corki" }
+      ]
+    },
+    {
+      "id": 28,
+      "img": "",
+      "title": "This Champion was known for carrying a mace, is known as the Master of Metal, and was made out of sickness and darkness. What is this brute's name?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Kennen" },
+        { "id": 2, "title": "Heimerdinger" },
+        { "id": 3, "title": "Twisted Fate" },
+        { "id": 4, "title": "Mordekaiser" }
+      ]
+    },
+    {
+      "id": 29,
+      "img": "",
+      "title": "This Champion is a completely different creature, and is known as the Mouth of the Abyss. What is this?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Cho'Gath" },
+        { "id": 2, "title": "kog'maw" },
+        { "id": 3, "title": "karthus" },
+        { "id": 4, "title": "blitzcrank" }
+      ]
+    },
+    {
+      "id": 30,
+      "img": "",
+      "title": "This Champion uses a sword, and wears a strange yellow helmet. Known as the Wuju Bladesman, who is this person?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Yone" },
+        { "id": 2, "title": "Yassuo" },
+        { "id": 3, "title": "Nidalee" },
+        { "id": 4, "title": "Master Yi" }
+      ]
+    },
+    {
+      "id": 31,
+      "img": "",
+      "title": "This Champion is a ninja, literally. Known as the Eye of Twilight, who is this?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Shen" },
+        { "id": 2, "title": "Sion" },
+        { "id": 3, "title": "Udyr" },
+        { "id": 4, "title": "Sivir" }
+      ]
+    },
+    {
+      "id": 32,
+      "img": "",
+      "title": "This Champion is fierce and goes by the name of The Sinister Blade. Who is this?",
+      "answer": 2,
+      "options": [
+        { "id": 1, "title": "Nasus" },
+        { "id": 2, "title": "Katarina" },
+        { "id": 3, "title": "Morgana" },
+        { "id": 4, "title": "Olaf" }
+      ]
+    },
+    {
+      "id": 33,
+      "img": "",
+      "title": "This Champion is covered from head to toe in strange tattoos, and is the Rogue Mage. Who is this?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Veigar" },
+        { "id": 2, "title": "Galio" },
+        { "id": 3, "title": "Kassadin" },
+        { "id": 4, "title": "Ryze" }
+      ]
+    },
+    {
+      "id": 34,
+      "img": "",
+      "title": "This Champion is a powerful assassin and is also known as the Widowmaker. Who is this?",
+      "answer": 4,
+      "options": [
+        { "id": 1, "title": "Kayle" },
+        { "id": 2, "title": "Janna" },
+        { "id": 3, "title": "Ezreal" },
+        { "id": 4, "title": "Envelyn" }
+      ]
+    },
+    {
+      "id": 35,
+      "img": "",
+      "title": " This Champion is a strange one, who also goes by the Harbinger of Doom, and carries a scythe. Who is it?",
+      "answer": 1,
+      "options": [
+        { "id": 1, "title": "Fiddlesticks" },
+        { "id": 2, "title": "Malphite" },
+        { "id": 3, "title": "Miss fortune" },
+        { "id": 4, "title": "Twitch" }
+      ]
+    }
+  ]
+}
