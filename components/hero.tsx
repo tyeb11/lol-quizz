@@ -16,7 +16,11 @@ const Hero: FC = () => {
     <>
       <Container display="flex" flexDirection="column">
         <Box>
-          <Image mt={50} src="/images/League-of-Legends-logo.png" />
+          <Image
+            alt="league-of-legends-logo"
+            mt={50}
+            src="/images/League-of-Legends-logo.png"
+          />
           <Text mt={-20} fontSize={50} textAlign="center" as="h1">
             Quizz!
           </Text>
