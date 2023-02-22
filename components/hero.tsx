@@ -19,7 +19,7 @@ const Hero: FC = () => {
           <Image
             alt="league-of-legends-logo"
             mt={50}
-            src="/images/League-of-Legends-logo.png"
+            src="https://logos-world.net/wp-content/uploads/2020/11/League-of-Legends-Logo.png"
           />
           <Text mt={-20} fontSize={50} textAlign="center" as="h1">
             Quizz!
