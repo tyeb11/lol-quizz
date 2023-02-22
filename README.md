@@ -1,6 +1,6 @@
 # League of Legends Short Quizzz
 
-[https://www.tyeb.dev/](https://tyeb-homepage.vercel.app)
+[https://www.tyeb.dev/projects/lol-quizz](https://lol-quizz.vercel.app/)
 
 ## Stack
 
