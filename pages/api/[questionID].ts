@@ -17,9 +17,9 @@ interface QuestionObject {
 }
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
-  const { questionID } = req.query;
+  const questionID = req.query.questionID;
   if (req.method == "GET") {
-    const comment = questions.find(({ id }) => id == questionID);
+    const comment = questions.find(({ id }) => id.toString() == questionID);
     res.status(200).json(comment);
   }
 }
