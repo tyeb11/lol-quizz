@@ -10,6 +10,7 @@ import {
 } from "@chakra-ui/react";
 
 import { FC } from "react";
+import SideHeros from "./side-hero";
 
 const Hero: FC = () => {
   return (
@@ -30,6 +31,7 @@ const Hero: FC = () => {
           <InputRightElement></InputRightElement>
         </InputGroup>
         <Button mt={5}>Start</Button>
+        <SideHeros />
       </Container>
     </>
   );
